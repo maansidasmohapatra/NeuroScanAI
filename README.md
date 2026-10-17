@@ -1,6 +1,6 @@
 # Brain Tumor Classification Using Deep Learning (Website)
 
-A website for the Machine Learning CCA-3 project. Upload a brain MRI image and your trained CNN predicts one of four classes: **glioma, meningioma, no tumor, pituitary tumor**.
+Upload a brain MRI image and your trained CNN predicts one of four classes: **glioma, meningioma, no tumor, pituitary tumor**.
 
 - **Frontend:** React + Vite (pages: Home, Model, Analyze MRI, Results)
 - **Backend:** Python Flask API that loads your real `brain_tumor_cnn.keras` model
